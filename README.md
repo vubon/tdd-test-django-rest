@@ -1,4 +1,4 @@
-# tdd-test-django-rest
+# TDD Django Rest Framework
 
 ### clone this repository 
 `https://github.com/vubon/tdd-test-django-rest.git`
