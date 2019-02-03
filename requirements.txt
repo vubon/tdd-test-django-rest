@@ -1,4 +1,4 @@
-Django==1.11.6
+Django==1.11.18
 djangorestframework==3.7.7
 pkg-resources==0.0.0
 psycopg2==2.7.4
